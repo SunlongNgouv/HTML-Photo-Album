@@ -3,6 +3,7 @@ body {
     background-image: url("./assets/images/flower.webp");
     background-image: cover;
     background-position: center;
+    background-repeat: no-repeat;
     background-size: 50%;
     font-size: 20px;
 }
